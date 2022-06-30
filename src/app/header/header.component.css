@@ -1,0 +1,12 @@
+nav{
+    font-size: medium;
+    background-color: #2c5258;
+    color: #b5ebf3;;
+   }
+   button{
+       background-color: #2c5258;
+       border: none;
+       font-size: medium;
+       border-radius: 5px;
+       padding: 10px;
+   }
